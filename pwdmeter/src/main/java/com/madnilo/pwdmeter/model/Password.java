@@ -4,14 +4,14 @@ public class Password {
 	
 	private String text;
 
-	private String strength;
+	private int strength;
 	
 	
-	public String getStrength() {
+	public int getStrength() {
 		return strength;
 	}
 
-	public void setStrength(String strength) {
+	public void setStrength(int strength) {
 		this.strength = strength;
 	}
 
