@@ -1,4 +1,4 @@
-# XY Inc API
+# pwd meter api
    Este projeto é um experimento de medidor de força de senha e foi inspirado em www.passwordmeter.com.  
    O presente repositório contém uma API do tipo RESTful. A API possui apenas um recurso, chamado "password" que contém um texto e um valor de força de 0-100.    
    É possível enviar uma senha e obter o valor de força da senha enviada.  
